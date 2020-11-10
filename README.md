@@ -6,17 +6,17 @@ Dự án ASP .NET Core 3.1, thiết kế wesite shop giày
 
 # CẦN THIẾT
 
-=> ASP .NET Core 3.1
-=> Entity Framework Core 3.1
-=> Microsoft Visual Studio Community/Professional (2019)
-=>.NET Core 3.1 SDK
-=> SQL Server 2019
-=> GitHub client
++ ASP .NET Core 3.1
++ Entity Framework Core 3.1
++ Microsoft Visual Studio Community/Professional (2019)
++ NET Core 3.1 SDK
++ SQL Server 2019
++ GitHub client
 
 # CÁC GÓI CÀI ĐẶT
-=> Microsoft.EntityFrameworkCore.Design
-=> Microsoft.EntityFrameworkCore.SqlServer
-=> Microsoft.EntityFrameworkCore.Tools
++ Microsoft.EntityFrameworkCore.Design
++ Microsoft.EntityFrameworkCore.SqlServer
++ Microsoft.EntityFrameworkCore.Tools
 
 # CHỨC NĂNG
 + Cập nhật, thêm, sửa, xóa
